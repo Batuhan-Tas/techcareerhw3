@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">NFT Market</string>
+    <string name="toolbarbaslik">NFT Marketplace</string>
+    <string name="pagebaslik">Popular NFTs</string>
+    <string name="nft1">Flying Raccoons</string>
+    <string name="nft2">Lazy Starfishes</string>
+    <string name="purchase">Purchase</string>
+    <string name="connect">Connect Your Wallet</string>
+    <string name="discover">Discover More NFTs !</string>
+    <string name="balance">Balance :</string>
+    <string name="livesupport">Contact Live Support</string>
+    <string name="nc">Wallet Not Connected</string>
+</resources>

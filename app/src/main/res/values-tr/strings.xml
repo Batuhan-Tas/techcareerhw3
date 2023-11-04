@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">NFT Market</string>
+    <string name="toolbarbaslik">NFT Marketplace</string>
+    <string name="pagebaslik">Popüler NFTler</string>
+    <string name="nft1">Flying Raccoons</string>
+    <string name="nft2">Lazy Starfishes</string>
+    <string name="purchase">Satın Al</string>
+    <string name="connect">Cüzdanınızı Bağlayın</string>
+    <string name="discover">Daha Fazla NFT Keşfet!</string>
+    <string name="balance">Bakiye :</string>
+    <string name="livesupport">Canlı Desteğe Bağlan</string>
+    <string name="nc">Cüzdan Bağlı Değil</string>
+</resources>
